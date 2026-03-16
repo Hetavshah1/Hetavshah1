@@ -1,11 +1,13 @@
 <h1 align="left">Hey 👋 What's up developer?</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;LangGraph+Engineer;AI+Agent+Builder;Automation+Developer;Python+Backend+Engineer&center=true&width=550&height=45">
-</p>
+
 
 ###
 
 <h6 align="left">My name is Hetav and I'm a CS student from Ahmedabad University.</h6>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;LangGraph+Engineer;AI+Agent+Builder;Automation+Developer;Python+Backend+Engineer&center=true&width=550&height=45">
+</p>
 
 ###
 
