@@ -44,7 +44,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,nodejs,django,fastapi,flask" height="45"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" height="45"/>
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker" height="45"/>
 
@@ -58,7 +58,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,threejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css" height="45"/>
 
 </p>
 
@@ -69,25 +69,12 @@
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker" height="45"/>
-
-<img src="https://cdn.simpleicons.org/apacheairflow" height="45"/>
 <!-- <img src="https://cdn.simpleicons.org/vercel" height="45"/>
-<img src="https://cdn.simpleicons.org/railway" height="45"/>
 <img src="https://cdn.simpleicons.org/render" height="45"/> -->
 
 </p>
 
 ---
-
-## 🤖 Automation Tools
-
-<p>
-
-<img src="https://cdn.simpleicons.org/n8n" height="45"/>
-<img src="https://cdn.simpleicons.org/airtable" height="45"/>
-<img src="https://cdn.simpleicons.org/ngrok" height="45"/>
-
-</p>
 
 ###
 
