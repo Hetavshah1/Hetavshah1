@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;LangGraph+Engineer;AI+Agent+Builder;Automation+Developer;Python+Backend+Engineer&center=true&width=550&height=45">
 </p>
 
+---
 ###
 
 <h2 align="left">About me</h2>
