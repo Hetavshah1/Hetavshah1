@@ -36,6 +36,75 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
+## 🧠 AI / ML Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+
+<img src="https://cdn.simpleicons.org/langchain" height="45"/>
+<img src="https://cdn.simpleicons.org/huggingface" height="45"/>
+<img src="https://cdn.simpleicons.org/opencv" height="45"/>
+
+<img src="https://img.shields.io/badge/LangGraph-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groq-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/MediaPipe-orange?style=flat-square"/>
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,django,fastapi,flask" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker" height="45"/>
+
+<img src="https://cdn.simpleicons.org/supabase" height="45"/>
+
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,threejs" height="45"/>
+
+</p>
+
+---
+
+## ☁️ DevOps & Infrastructure
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" height="45"/>
+
+<img src="https://cdn.simpleicons.org/apacheairflow" height="45"/>
+<!-- <img src="https://cdn.simpleicons.org/vercel" height="45"/>
+<img src="https://cdn.simpleicons.org/railway" height="45"/>
+<img src="https://cdn.simpleicons.org/render" height="45"/> -->
+
+</p>
+
+---
+
+## 🤖 Automation Tools
+
+<p>
+
+<img src="https://cdn.simpleicons.org/n8n" height="45"/>
+<img src="https://cdn.simpleicons.org/airtable" height="45"/>
+<img src="https://cdn.simpleicons.org/ngrok" height="45"/>
+
+</p>
+
 ###
 
 <div align="center">
