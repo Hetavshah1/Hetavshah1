@@ -48,7 +48,7 @@
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres,docker" height="45"/>
 
 <img src="https://cdn.simpleicons.org/supabase" height="45"/>
 
@@ -60,7 +60,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css" height="45"/>
+<img src="https://skillicons.dev/icons?i=react,javascript" height="45"/>
 
 </p>
 
