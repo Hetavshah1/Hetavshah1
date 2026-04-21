@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first "Hello world".<br>📚 I'm currently learning about the new AI agents popping up every day - the goal is to automate enough work that I can finally pretend I'm just supervising.<br>🎯 My goal is to build cool solution to a real life problem.<br>🎲 Fun fact about me is that when I'm not coding, I'm either surfing Reddit or watching gaming videos on Yt.</p>
+<p align="left">● Creating bugs since my first "Hello world".<br>● I'm currently learning about the new AI agents popping up every day - the goal is to automate enough work that I can finally pretend I'm just supervising.<br>● My goal is to build cool solution to a real life problem.<br>● Fun fact about me is that when I'm not coding, I'm either surfing Reddit or watching gaming videos on Yt.</p>
 
 ###
 
